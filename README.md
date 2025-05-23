@@ -56,7 +56,7 @@ MODEL_NAME=your_model_name_here
 Example:
 
 ```
-MODEL_NAME=mistralai/Mistral-7B-Instruct-v0.3
+MODEL_NAME=deepseek-ai/deepseek-coder-1.3b-base
 ```
 
 ---
